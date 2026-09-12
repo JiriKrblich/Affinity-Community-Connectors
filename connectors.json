@@ -1,0 +1,12 @@
+{
+  "repository": "Affinity Community Connectors",
+  "last_updated": "2026-09-12",
+  "connectors": [
+    {
+      "id": "krea",
+      "repository": "JiriKrblich/Affinity-Connector-Krea",
+      "ref": "main",
+      "category": "Images"
+    }
+  ]
+}
