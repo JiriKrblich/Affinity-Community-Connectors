@@ -3,8 +3,26 @@
   "last_updated": "2026-09-12",
   "connectors": [
     {
+      "id": "comfyui",
+      "repository": "JiriKrblich/Affinity-Connector-Comfy",
+      "ref": "main",
+      "category": "Images"
+    },
+    {
+      "id": "filebin",
+      "repository": "JiriKrblich/Affinity-Connector-Filebin",
+      "ref": "main",
+      "category": "Export"
+    },
+    {
       "id": "krea",
       "repository": "JiriKrblich/Affinity-Connector-Krea",
+      "ref": "main",
+      "category": "Images"
+    },
+    {
+      "id": "upscayl",
+      "repository": "JiriKrblich/Affinity-Connector-Upscayl",
       "ref": "main",
       "category": "Images"
     }
