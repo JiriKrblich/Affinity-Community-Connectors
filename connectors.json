@@ -33,6 +33,12 @@
       "category": "Images"
     },
     {
+      "id": "place-image-from-url",
+      "repository": "JiriKrblich/Affinity-Connector-Place-Img-From-URL",
+      "ref": "main",
+      "category": "Images"
+    },
+    {
       "id": "p5-sketch",
       "repository": "JiriKrblich/Affinity-Connector-p5js",
       "ref": "main",
