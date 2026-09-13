@@ -1,6 +1,6 @@
 {
   "repository": "Affinity Community Connectors",
-  "last_updated": "2026-09-12",
+  "last_updated": "2026-09-13",
   "connectors": [
     {
       "id": "comfyui",
@@ -9,14 +9,32 @@
       "category": "Images"
     },
     {
+      "id": "export-everything",
+      "repository": "JiriKrblich/Affinity-connector-export-every-artboard",
+      "ref": "main",
+      "category": "Export"
+    },
+    {
       "id": "filebin",
       "repository": "JiriKrblich/Affinity-Connector-Send-a-file-link",
       "ref": "main",
       "category": "Export"
     },
     {
+      "id": "googly-eyes",
+      "repository": "JiriKrblich/Affinity-connector-googly-eyes",
+      "ref": "main",
+      "category": "Images"
+    },
+    {
       "id": "krea",
       "repository": "JiriKrblich/Affinity-Connector-Krea",
+      "ref": "main",
+      "category": "Images"
+    },
+    {
+      "id": "p5-sketch",
+      "repository": "JiriKrblich/Affinity-Connector-p5js",
       "ref": "main",
       "category": "Images"
     },
